@@ -1,0 +1,463 @@
+
+body{
+    background-color:  #09f;
+
+}
+
+h1{
+    background-color: #0fF;
+    border-radius:25px;
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+    min-width: 100px;
+    max-width: 1500px;
+    opacity: 0.9;
+    letter-spacing: 1.5px;
+
+
+}
+
+.h2-one{
+    text-align: center;
+    padding: 15px;
+    margin: 8px;
+    background-color: #0FF;
+    height: 50px;
+    border-radius: 25px;
+    min-width: 20px;
+        max-width: 1500px;
+        opacity: 0.9;
+    }
+
+    .descripcion{
+        font-size: 14px;
+    background-color: #000;
+    opacity: 0.8;
+    border-radius: 30px;
+    border: 3px inset #FFF;
+    min-width: 300px;
+
+    }
+
+    .descripcion p {
+        font-size: 1.9em;
+            font-family: "Oleo Script", system-ui;
+            font-weight: 400;
+            font-style: oblique;
+            color: #fff;
+            padding: 20px;
+          }
+
+          .div-cumpleadul{
+            display: inline-block;
+        background-color: #000;
+        opacity: 0.9;
+        height: 100px;
+            width: 250px;
+            padding: 25px;
+            text-align: center;
+            min-width: 100px;
+            max-width: 900px;
+            border-radius: 35px;
+            border: 4px solid #7DF9FF;
+
+
+        }
+
+        .cumpleadulto{
+            color: #fff;
+            font-size: larger;
+            letter-spacing: 2px;
+            text-align: center;
+
+        }
+
+        .cumpleadulto:hover{
+            color: #7DF9FF;
+         }
+
+         .div-cumplepeque{
+            display: inline-flex;
+            background-color: #000;
+            opacity: 0.9;
+            height: 100px;
+            width: 250px;
+            padding: 25px;
+            margin-top: 20px;
+            text-align: center;
+            min-width: 100px;
+            max-width: 900px;
+            border-radius: 35px;
+
+            border-style: solid;
+            border: 3px solid #7DF9FF;
+        }
+
+        .cumplepeque{
+
+            color: #fff;
+            font-size: larger;
+            letter-spacing: 2px;
+       }
+
+       .cumplepeque:hover{
+        color:#7DF9FF;
+    }
+
+.text{
+color: #FFF;
+letter-spacing: 1px;
+}
+.preguntas{
+    border: 2px solid #000;
+    color:#000;
+    background-color: #34f;
+
+
+}
+
+	 .imagenes{
+       display: grid;
+	  grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+	  grid-gap: 5px;
+	  background-color: #000;
+	  opacity: 0.9;
+	  padding: 10px;
+border-radius: 8px;
+	 }
+
+	 .imagen{
+		width: 75%;
+		height: 75%;
+          max-width: 450px;
+         object-fit: cover;
+        padding: 10px;
+        border-radius: 20px;
+        border-color: #fff;
+box-shadow:5px 10px 10px #000;
+
+
+		}
+
+.foto{
+background-color:#ADD8E6;
+border-radius: 10px;
+border: 2.5px inset #00F;
+
+}
+
+.foto2{
+background-color:#ddd;
+
+	border-radius: 10px;
+	border: 2.5px inset #fff;
+	}
+	.foto3{
+		background-color: #eee;
+		border-radius: 10px;
+		border: 2.5px inset #000;
+		}
+		.foto4{
+			background-color: #dfe;
+			border-radius: 10px;
+			border: 2.5px inset #0de;
+			}
+			.foto5{
+				background-color: #eed;
+				border-radius: 10px;
+				border: 2.5px inset #ccc;
+				}
+table{
+    border: 3px inset #000;
+   font-size: large;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+letter-spacing: 3px;
+box-shadow: 30px 30px 30px #111;
+background-color: #ccf;
+border-radius: 5px;
+}
+
+.horarios{
+    display: inline-block;
+margin-left: 75px;
+border: 2px outset #fff;
+background-color: #555;
+color:#fff;
+box-shadow: 0px 0px 10px #fff;
+border-radius: 5px;
+padding: 3px;
+}
+
+      .oleo-script-bold {
+        font-family: "Oleo Script", system-ui;
+        font-weight: 700;
+        font-style: normal;
+
+
+    font-weight: 300;
+    line-height: 1,2;
+    border-radius: 10px;
+      }
+
+video{
+width: 50em;
+height: 50em;
+min-width: 20em;
+max-width: 20em;
+
+}
+button :hover{
+border-color: black;
+
+background-color: #fff;
+
+}
+
+button a {
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contacto  {
+background-color: #7DF9FF;
+min-width: 100px;
+min-height: 50px;
+border-radius: 10px;
+}
+.num{
+font-size: medium;
+}
+.globodecorazon{
+	padding: 10px;
+}
+b {
+color:#f00
+
+
+
+}
+.interese{
+background-color:#0ff;
+padding-bottom: 30px;
+min-width: 30px;
+max-width: 450px;
+border-radius: 30px;
+padding: 30px;
+border: 3px solid #fef;
+}
+
+.infoglobos{
+position: relative;
+padding: 30px;
+
+}
+.infocubiertos{
+padding: 30px;
+
+}
+.info{
+color:#FFF;
+padding: 10px;
+}
+.ubi{
+border: 2px outset #000;
+display: inline-block;
+box-shadow: 5px 9px 30px #000;
+background-color: #cce;
+}
+.ubicacion{
+border: 2px solid #fff;
+color:#fff;
+background-color: #000;
+letter-spacing: 1.5px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.infotext{
+border:2px inset #caa;
+display: inline-block;
+padding: 4px;
+background-color: #ccc;
+box-shadow:15px 8px 8px #ccc;
+letter-spacing: 1.4px;
+}
+.pinfotext{
+    border: 2px inset #444;
+    background-color: #ccc;
+    letter-spacing: 1.5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+box-shadow: 1px 1px 10px #ded;
+}
+
+i {
+width: 25px;
+background-color: #fff;
+
+}
+
+.copyright{
+color:#FFF;
+font-size: 9px;
+
+}
+.micontacto{
+color:#fFF;
+font-size: 9px;
+}
+.social{
+    color:#FFF;
+}
+footer{
+background-color: #111;
+}
+
+
+/* parte de la pg cumple pequeños********************
+***************************************************
+*******************************************
+
+*/
+
+
+.body{
+background-color: #00F;
+
+
+}
+
+.div-contener{
+	display:grid;
+	grid-template-columns:repeat(auto-fill,minmax(200px, 1fr));
+    grid-gap: 10px;
+    background-color: #FFF;
+    padding: 10px;
+    border-radius: 10px;
+    min-width: 300px;
+    max-width: 1000px;
+}
+
+img{
+width: 70%;
+height: 70%;
+object-fit: cover;
+max-width: 400px;
+max-height: 500px;
+min-width: 200px;
+min-height: 300px;
+padding: 4px;
+
+}
+img:hover{
+border-color: #000;
+box-shadow:0px 0px 20px #fff;
+}
+
+.regresar{
+letter-spacing: 2px;
+color:#000;
+
+
+}
+.regresar:hover{
+color:#fff;
+
+}
+.h3{
+    background-color: #999;
+    width: 75px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+padding-top: 5px;
+
+
+
+}
+.div{
+	background-color: #30f;
+	border-radius: 10px;
+	padding: 5px;
+	min-width: 200px;
+	margin: 5px;
+    border: 1px solid #000;
+}
+
+
+
+.div00{
+
+	background-color: #000;
+	border-radius: 10px;
+    border: 1px solid #000;
+}
+.h1{
+    background-color: #0fF;
+    border-radius:25px;
+    text-align: center;
+    padding: 15px;
+    margin: 5px;
+    min-width: 100px;
+    max-width: 1500px;
+    opacity: 0.9;
+    letter-spacing: 1.5px;
+
+
+}
+.div001{
+background-color: #0ff;
+border: 1px solid #000;
+}
+.div002{
+    background-color: #f00;
+    border: 1px solid #000;
+
+}
+.div003{
+    background-color: blueviolet;
+    border: 1px solid #000;
+}
+
+.div004{
+    background-color: #7DF9FF;
+    border: 1px solid #000;
+}
+.consultas{
+
+border: 2px solid #FFF;
+
+border-radius: 50%;
+background-color: #0f0;
+color:#00F;
+max-width: 70px;;
+height: 55px;
+padding: 20px;
+margin: 20px;
+position: initial;
+position: sticky;
+
+}
+.consultas:hover{
+color:#000;
+
+
+}
+.a{
+  padding:20px;
+  margin-top:30px;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 1.6px;
+
+}
+
+/*final   de cumple peque****************
+
+inicio de las personalizaciones de la pag cumple grande
+
+
+*/
+
+.bodyca{
+background-color: #ccc;
+
+}
